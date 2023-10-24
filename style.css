@@ -1,3 +1,16 @@
 body {
 background: #1ed7d4
-  
+}
+
+h1 {
+   text-align: center; 
+   calor: chartreuse;
+}
+
+ p {
+   text-align: center;
+ }
+
+ em strong {
+     calor: #ff0000;
+ }
