@@ -1,16 +1,13 @@
 body {
-background: #1ed7d4
+     backgroud-color:#0bc7c4
 }
 
 h1 {
-   text-align: center; 
-   calor: chartreuse;
+  text-align: center;
 }
 
- p {
-   text-align: center;
- }
+.centro {
+        text-align: center;
+        font-family:Cambria,Cochin,Georgia,Times,'Times New Roman',Serif;
 
- em strong {
-     calor: #ff0000;
- }
+}
